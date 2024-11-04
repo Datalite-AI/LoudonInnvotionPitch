@@ -1,2 +1,1 @@
-# LoudonInnvotionPitch
-Datalite - Case Management
+This is a pitch video for the Loudoun County Innovation Challenge. This video is prepared and presented by Datalite, LLC. The presentation file used in the video is also attached. The presentation is in mp4 format. 
